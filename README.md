@@ -20,6 +20,8 @@ A comprehensive financial management and market analysis platform that combines:
 
 **Perfect for**: Financial Analysts, Traders, Investors, and Personal Finance Enthusiasts
 
+> 💡 **Quick Demo**: Includes pre-configured demo data with 6 tech stocks showing 31% portfolio returns, realistic transactions, and $42K in account balances. Perfect for showcasing to employers!
+
 ## ✨ Features
 
 ### 🚀 Market Analysis (NEW!)
@@ -143,9 +145,21 @@ cp .env.example .env
 npm run dev
 ```
 
-4. **Access the application**
+4. **Add demo data (optional but recommended for showcase)**
+```bash
+cd backend
+node src/scripts/addDemoData.js
+```
+
+This adds:
+- 6 popular tech stocks (AAPL, MSFT, GOOGL, NVDA, TSLA, AMZN)
+- Realistic portfolio showing 31% returns
+- Bank accounts with balances
+- 3 months of transaction history
+
+5. **Access the application**
 - Frontend: http://localhost:3000
-- Backend API: http://localhost:5000
+- Backend API: http://localhost:5001
 
 ## Database Setup
 
@@ -162,6 +176,17 @@ CREATE DATABASE finance_dashboard;
 cd backend
 npm run init-db
 ```
+
+5. (Optional) Add demo data for showcase:
+```bash
+node src/scripts/addDemoData.js
+```
+
+**Demo Data Includes:**
+- **Portfolio**: 6 tech stocks (AAPL, MSFT, GOOGL, NVDA, TSLA, AMZN) with Jan 2024 purchase prices
+- **Returns**: ~31% portfolio return showcasing performance tracking
+- **Accounts**: Investment account ($25K), Checking ($5.4K), Savings ($12.3K)
+- **Transactions**: 3 months of realistic income/expense data
 
 ## API Endpoints
 

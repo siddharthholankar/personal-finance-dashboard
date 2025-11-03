@@ -297,7 +297,6 @@ export default function Analytics() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
         {monthlySummary.slice(0, 1).map(item => {
           const income = parseFloat(item.total_income) || 0;
-          const expenses = parseFloat(item.total_expenses) || 0;
           const net = parseFloat(item.net) || 0;
           const savingsRate = income > 0 ? (net / income) * 100 : 0;
 

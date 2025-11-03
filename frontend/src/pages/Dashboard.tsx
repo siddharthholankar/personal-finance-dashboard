@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
-import { analyticsAPI, transactionsAPI, portfolioAPI } from '../services/api';
+import { analyticsAPI, transactionsAPI } from '../services/api';
 import { 
   Wallet, 
   TrendingUp, 

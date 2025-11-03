@@ -51,25 +51,30 @@ A **professional financial analysis platform** that showcases real-world skills 
 ## 📸 Platform Screenshots
 
 ### 📊 Dashboard - Real-Time Overview
-> *Screenshot placeholder: Dashboard showing portfolio summary, recent transactions, and account balances*
+
+![Dashboard Screenshot](screenshots/dashboard.png)
 
 **Key Features Shown:**
-- Portfolio valuation: $42,720 total value
-- Recent activity feed
-- Account balance summaries
-- Quick metrics and KPIs
+- **Stunning Gradient Design**: Modern purple-pink gradient background with glass-morphism effects
+- **Animated Stats Cards**: Portfolio valuation, monthly income/expenses with hover effects
+- **Real-Time Data**: $42,720 total portfolio value with 31% returns
+- **Quick Action Buttons**: Gradient buttons with smooth animations
+- **Recent Transactions**: Beautiful transaction cards with color-coded categories
+- **Professional UI**: Premium financial dashboard design
 
 ---
 
 ### 💼 Portfolio Management - Investment Tracking
-> *Screenshot placeholder: Portfolio page with 6 stocks showing performance metrics*
+
+![Portfolio Screenshot](screenshots/portfolio.png)
 
 **Demonstrated Skills:**
 - **6 Tech Stocks Tracked**: AAPL, MSFT, GOOGL, NVDA, TSLA, AMZN
 - **31% Portfolio Return** from January 2024 purchases
-- **ROI Calculation**: Purchase price vs. current value
-- **Gain/Loss Analysis**: Both dollar and percentage returns
-- **Color-coded Performance**: Visual indicators for gains/losses
+- **ROI Calculation**: Purchase price vs. current value showing $9,540 in total gains
+- **Gain/Loss Analysis**: Both dollar and percentage returns with color-coded badges
+- **Modern Table Design**: Gradient hover effects and professional layout
+- **Visual Performance Indicators**: Stock icons with gradient backgrounds
 
 **Example Portfolio Holdings:**
 | Stock | Shares | Purchase Price | Current Price | Gain/Loss | Return % |
@@ -77,40 +82,53 @@ A **professional financial analysis platform** that showcases real-world skills 
 | AAPL  | 25     | $185.00       | $232.00       | +$1,175   | +25.4%   |
 | NVDA  | 10     | $495.00       | $875.00       | +$3,800   | +76.8%   |
 | MSFT  | 15     | $370.00       | $437.00       | +$1,005   | +18.1%   |
+| GOOGL | 20     | $140.00       | $168.00       | +$560     | +20.0%   |
+| TSLA  | 12     | $238.00       | $265.00       | +$324     | +11.3%   |
+| AMZN  | 18     | $151.00       | $178.00       | +$486     | +17.9%   |
 
 ---
 
 ### 📈 Market Analysis - TradingView Integration
-> *Screenshot placeholder: TradingView charts with technical indicators*
+
+![Market Analysis Screenshot](screenshots/market-analysis.png)
 
 **Professional Trading Tools:**
-- Real-time price charts
-- Technical indicators (RSI, MACD, Bollinger Bands)
-- Multiple timeframes (1min to 1month)
-- Drawing tools and annotations
-- Market overview widgets
+- **TradingView Charts**: Full-featured professional charting platform
+- **Real-Time Market Data**: Live prices and market movements
+- **Technical Indicators**: RSI, MACD, Moving Averages, Bollinger Bands, and 100+ more
+- **Multiple Timeframes**: From 1-minute to monthly charts
+- **Drawing Tools**: Trend lines, support/resistance, Fibonacci retracements
+- **Market Overview**: Global indices, futures, crypto markets
+- **Professional Grade**: Same tools used by institutional traders
 
 ---
 
 ### 💰 Transaction Tracking - Cash Flow Management
-> *Screenshot placeholder: Transactions page with income/expense categories*
+
+![Transactions Screenshot](screenshots/transactions.png)
 
 **Financial Planning Skills:**
-- Transaction categorization
-- Income vs. expense tracking
-- Monthly budget analysis
-- Account management
+- **Transaction Categorization**: Organized by income/expense categories (Salary, Rent, Groceries, etc.)
+- **Multi-Account Management**: Track across investment, checking, and savings accounts
+- **Income vs Expense Tracking**: Visual breakdown with color-coded transaction types
+- **Date-Based Filtering**: Historical transaction analysis
+- **Modern Interface**: Beautiful cards with gradient backgrounds and smooth animations
+- **Quick Actions**: Easy add, edit, and delete functionality
 
 ---
 
 ### 📊 Analytics - Financial Insights
-> *Screenshot placeholder: Analytics page with charts and trends*
+
+![Analytics Screenshot](screenshots/analytics.png)
 
 **Data Visualization:**
-- Monthly income/expense trends
-- Category breakdown pie charts
-- Spending pattern analysis
-- Historical performance graphs
+- **Interactive Charts**: Recharts-powered visualizations with hover tooltips
+- **Monthly Income/Expense Trends**: Line graphs showing financial patterns over time
+- **Category Breakdown**: Pie charts displaying spending distribution by category
+- **Portfolio Performance**: Investment returns and growth metrics
+- **Historical Analysis**: 3+ months of transaction data for trend identification
+- **KPI Summary Cards**: Quick overview of key financial metrics
+- **Professional Design**: Glass-morphism effects and gradient styling
 
 ---
 

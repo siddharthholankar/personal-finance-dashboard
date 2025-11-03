@@ -1,0 +1,32 @@
+{
+  "name": "personal-finance-dashboard",
+  "version": "1.0.0",
+  "description": "Full-stack Personal Finance Dashboard application",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "scripts": {
+    "install:all": "npm install && cd frontend && npm install && cd ../backend && npm install",
+    "dev": "concurrently \"cd backend && npm run dev\" \"cd frontend && npm run dev\"",
+    "build": "cd frontend && npm run build",
+    "start:backend": "cd backend && npm start",
+    "start:frontend": "cd frontend && npm run preview",
+    "init-db": "cd backend && npm run init-db"
+  },
+  "keywords": [
+    "finance",
+    "dashboard",
+    "personal-finance",
+    "portfolio",
+    "transactions",
+    "analytics"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
+
